@@ -66,7 +66,7 @@ class Ui_MainWindow(object):
         self.message.setGeometry(QtCore.QRect(115, 110, 445, 40))
         self.message.setObjectName("message")
         self.textEdit = QtWidgets.QTextEdit(self.centralwidget)
-        self.textEdit.setGeometry(QtCore.QRect(220, 20, 250, 55))
+        self.textEdit.setGeometry(QtCore.QRect(225, 20, 250, 55))
         self.textEdit.setObjectName("textEdit")
         self.p1 = QtWidgets.QLineEdit(self.centralwidget)
         self.p1.setGeometry(QtCore.QRect(70, 210, 490, 22))
